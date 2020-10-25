@@ -1,6 +1,10 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+## This following functions calculate a inverse of the matrix. 
+## if the inverse is already calculated, the function return the
+## cache value.
+
 ## Write a short comment describing this function
 ## The following function takes a matrix as an input and return the inverse of it
 makeCacheMatrix <- function(x = matrix()) {
